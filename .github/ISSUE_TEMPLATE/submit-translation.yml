@@ -1,0 +1,36 @@
+name: Submit a translation
+description: Share a catalogue without using git. A maintainer adds it with you as the translator.
+title: "[Translation] "
+labels: [translation-submission]
+body:
+  - type: input
+    id: language
+    attributes:
+      label: Language and code
+      placeholder: Deutsch (de)
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Credit as
+    validations:
+      required: true
+  - type: input
+    id: author-url
+    attributes:
+      label: Link for your name (optional)
+  - type: dropdown
+    id: license
+    attributes:
+      label: License
+      options: [MIT, CC0-1.0, CC-BY-4.0]
+    validations:
+      required: true
+  - type: textarea
+    id: file
+    attributes:
+      label: The catalogue
+      description: Attach the JSON file (drag it here) or paste it.
+    validations:
+      required: true

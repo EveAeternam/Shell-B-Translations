@@ -1,0 +1,18 @@
+{
+ "format": 1,
+ "kind": "locale",
+ "strings": 3942,
+ "items": [
+  {
+   "code": "fr",
+   "entries": 3942,
+   "covered": 3942,
+   "coverage": 100.0,
+   "name": "Français",
+   "author": "Evie & Shell:B",
+   "authorUrl": "https://github.com/EveAeternam/Shell-B",
+   "license": "MIT",
+   "version": "1.0"
+  }
+ ]
+}
