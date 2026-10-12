@@ -1,0 +1,61 @@
+{
+ "code": "en-pirate",
+ "name": "Pirate Speak",
+ "total": 90,
+ "verified": 85,
+ "verifiedPct": 94.4,
+ "sources": [
+  {
+   "name": "Talk Like A Pirate Glossary",
+   "url": "http://talklikeapirate.com/"
+  },
+  {
+   "name": "Pirate English Lexicon",
+   "url": "https://en.wiktionary.org/"
+  }
+ ],
+ "needsReviewCount": 5,
+ "needsReview": [
+  {
+   "key": "Save",
+   "translation": "Stash in the chest",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Stow' for 'Save'",
+   "lookupSource": "Talk Like A Pirate Glossary",
+   "lookupUrl": "http://talklikeapirate.com/"
+  },
+  {
+   "key": "Delete",
+   "translation": "Walk the plank!",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Scuttle' for 'Delete'",
+   "lookupSource": "Talk Like A Pirate Glossary",
+   "lookupUrl": "http://talklikeapirate.com/"
+  },
+  {
+   "key": "Settings",
+   "translation": "Ship's Articles",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Ship Riggin'' for 'Settings'",
+   "lookupSource": "Talk Like A Pirate Glossary",
+   "lookupUrl": "http://talklikeapirate.com/"
+  },
+  {
+   "key": "Agent",
+   "translation": "First Mate",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Deckhand' for 'Agent'",
+   "lookupSource": "Talk Like A Pirate Glossary",
+   "lookupUrl": "http://talklikeapirate.com/"
+  },
+  {
+   "key": "Search",
+   "translation": "Scour the seas",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Scout' for 'Search'",
+   "lookupSource": "Talk Like A Pirate Glossary",
+   "lookupUrl": "http://talklikeapirate.com/"
+  }
+ ],
+ "confirmedKeys": []
+}

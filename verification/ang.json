@@ -1,0 +1,53 @@
+{
+ "code": "ang",
+ "name": "Ænglisc",
+ "total": 90,
+ "verified": 86,
+ "verifiedPct": 95.6,
+ "sources": [
+  {
+   "name": "Bosworth-Toller Dictionary",
+   "url": "https://bosworthtoller.com/"
+  },
+  {
+   "name": "Wiktionary (Old English)",
+   "url": "https://en.wiktionary.org/wiki/Category:Old_English_language"
+  }
+ ],
+ "needsReviewCount": 4,
+ "needsReview": [
+  {
+   "key": "Cancel",
+   "translation": "Adilgian",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Awendan' for 'Cancel'",
+   "lookupSource": "Bosworth-Toller Dictionary",
+   "lookupUrl": "https://bosworthtoller.com/search?q=Cancel"
+  },
+  {
+   "key": "Delete",
+   "translation": "Ofslean",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Adilgian' for 'Delete'",
+   "lookupSource": "Bosworth-Toller Dictionary",
+   "lookupUrl": "https://bosworthtoller.com/search?q=Delete"
+  },
+  {
+   "key": "Settings",
+   "translation": "Gesteallunga",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Gesetnessa' for 'Settings'",
+   "lookupSource": "Bosworth-Toller Dictionary",
+   "lookupUrl": "https://bosworthtoller.com/search?q=Settings"
+  },
+  {
+   "key": "Prompt",
+   "translation": "Bylding",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Bebod' for 'Prompt'",
+   "lookupSource": "Bosworth-Toller Dictionary",
+   "lookupUrl": "https://bosworthtoller.com/search?q=Prompt"
+  }
+ ],
+ "confirmedKeys": []
+}

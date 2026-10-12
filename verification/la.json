@@ -1,0 +1,49 @@
+{
+ "code": "la",
+ "name": "Latina",
+ "total": 90,
+ "verified": 87,
+ "verifiedPct": 96.7,
+ "sources": [
+  {
+   "name": "Whitaker's Words",
+   "url": "https://latin-words.com/"
+  },
+  {
+   "name": "Perseus Digital Library",
+   "url": "http://www.perseus.tufts.edu/"
+  },
+  {
+   "name": "Wiktionary (Latina)",
+   "url": "https://en.wiktionary.org/wiki/Category:Latin_language"
+  }
+ ],
+ "needsReviewCount": 3,
+ "needsReview": [
+  {
+   "key": "Agent",
+   "translation": "Agens",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Actor' for 'Agent'",
+   "lookupSource": "Whitaker's Words",
+   "lookupUrl": "https://latin-words.com/"
+  },
+  {
+   "key": "Prompt",
+   "translation": "Incitatio",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Mandatum' for 'Prompt'",
+   "lookupSource": "Whitaker's Words",
+   "lookupUrl": "https://latin-words.com/"
+  },
+  {
+   "key": "Tokens",
+   "translation": "Tesserae",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Symbola' for 'Tokens'",
+   "lookupSource": "Whitaker's Words",
+   "lookupUrl": "https://latin-words.com/"
+  }
+ ],
+ "confirmedKeys": []
+}

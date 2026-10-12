@@ -1,3 +1,573 @@
 {
-  "fr": { "name": "Français", "author": "Evie & Shell:B", "authorUrl": "https://github.com/ShellB-App/Shell-B", "license": "MIT", "version": "1.0" }
+ "br": {
+  "name": "Brezhoneg",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "0.1",
+  "sources": [
+   {
+    "name": "TermOfis (Ofis Publik ar Brezhoneg)",
+    "url": "https://www.fr.brezhoneg.bzh/"
+   },
+   {
+    "name": "Geriadur Favereau",
+    "url": "https://geriadur.brezhoneg.bzh/"
+   },
+   {
+    "name": "Wiktionary (Brezhoneg)",
+    "url": "https://en.wiktionary.org/wiki/Category:Breton_language"
+   }
+  ],
+  "flag": "🏴",
+  "category": "living",
+  "draft": true
+ },
+ "cy": {
+  "name": "Cymraeg",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "0.1",
+  "sources": [
+   {
+    "name": "Termau Cymru (Welsh National Terminology)",
+    "url": "https://termau.cymru/"
+   },
+   {
+    "name": "Geiriadur Prifysgol Cymru",
+    "url": "https://geiriadur.ac.uk/"
+   },
+   {
+    "name": "Geiriadur yr Academi",
+    "url": "https://geiriaduracademi.org/"
+   },
+   {
+    "name": "Wiktionary (Cymraeg)",
+    "url": "https://en.wiktionary.org/wiki/Category:Welsh_language"
+   }
+  ],
+  "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+  "category": "living",
+  "draft": true
+ },
+ "es": {
+  "name": "Español",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "0.1",
+  "sources": [
+   {
+    "name": "Real Academia Española (DLE)",
+    "url": "https://dle.rae.es/"
+   },
+   {
+    "name": "Wiktionary (Español)",
+    "url": "https://es.wiktionary.org/"
+   }
+  ],
+  "flag": "🇪🇸",
+  "category": "living",
+  "draft": true
+ },
+ "eu": {
+  "name": "Euskara",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "0.1",
+  "sources": [
+   {
+    "name": "Euskalterm (Terminology Bank)",
+    "url": "https://www.euskadi.eus/euskalterm/"
+   },
+   {
+    "name": "Elhuyar Hiztegia",
+    "url": "https://hiztegiak.elhuyar.eus/"
+   },
+   {
+    "name": "Wiktionary (Euskara)",
+    "url": "https://en.wiktionary.org/wiki/Category:Basque_language"
+   }
+  ],
+  "flag": "🟩",
+  "category": "living",
+  "draft": true
+ },
+ "fr": {
+  "name": "Français",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "1.0",
+  "sources": [
+   {
+    "name": "Académie française",
+    "url": "https://www.dictionnaire-academie.fr/"
+   },
+   {
+    "name": "Larousse",
+    "url": "https://www.larousse.fr/"
+   },
+   {
+    "name": "Wiktionary (Français)",
+    "url": "https://fr.wiktionary.org/"
+   }
+  ],
+  "flag": "🇫🇷",
+  "category": "living"
+ },
+ "ga": {
+  "name": "Gaeilge",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "0.1",
+  "sources": [
+   {
+    "name": "Téarma.ie (National Terminology Database)",
+    "url": "https://www.tearma.ie/"
+   },
+   {
+    "name": "Teanglann.ie",
+    "url": "https://www.teanglann.ie/"
+   },
+   {
+    "name": "Foclóir.ie",
+    "url": "https://www.focloir.ie/"
+   },
+   {
+    "name": "Wiktionary (Gaeilge)",
+    "url": "https://en.wiktionary.org/wiki/Category:Irish_language"
+   }
+  ],
+  "flag": "🇮🇪",
+  "category": "living",
+  "draft": true
+ },
+ "gd": {
+  "name": "Gàidhlig",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "0.1",
+  "sources": [
+   {
+    "name": "LearnGaelic Dictionary",
+    "url": "https://learngaelic.net/dictionary/"
+   },
+   {
+    "name": "Am Faclair Beag",
+    "url": "https://faclair.com/"
+   },
+   {
+    "name": "Stòr-dàta Briathrachais",
+    "url": "https://www.gaidhlig.scot/"
+   },
+   {
+    "name": "Wiktionary (Gàidhlig)",
+    "url": "https://en.wiktionary.org/wiki/Category:Scottish_Gaelic_language"
+   }
+  ],
+  "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+  "category": "living",
+  "draft": true
+ },
+ "gv": {
+  "name": "Gaelg",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "0.1",
+  "sources": [
+   {
+    "name": "LearnManx / Fockleyr",
+    "url": "https://www.learnmanx.com/"
+   },
+   {
+    "name": "Wiktionary (Gaelg)",
+    "url": "https://en.wiktionary.org/wiki/Category:Manx_language"
+   }
+  ],
+  "flag": "🇮🇲",
+  "category": "living",
+  "draft": true
+ },
+ "ja": {
+  "name": "日本語",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "0.1",
+  "sources": [
+   {
+    "name": "Jisho.org",
+    "url": "https://jisho.org/"
+   },
+   {
+    "name": "Wiktionary (日本語)",
+    "url": "https://en.wiktionary.org/wiki/Category:Japanese_language"
+   }
+  ],
+  "flag": "🇯🇵",
+  "category": "living",
+  "draft": true
+ },
+ "kw": {
+  "name": "Kernewek",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "0.1",
+  "sources": [
+   {
+    "name": "Akademi Kernewek Terminology",
+    "url": "https://www.akademikernewek.org.uk/"
+   },
+   {
+    "name": "Gerlyver Kernewek",
+    "url": "https://cornishdictionary.org.uk/"
+   },
+   {
+    "name": "Wiktionary (Kernewek)",
+    "url": "https://en.wiktionary.org/wiki/Category:Cornish_language"
+   }
+  ],
+  "flag": "⬛",
+  "category": "living",
+  "draft": true
+ },
+ "liv": {
+  "name": "Līvõ kēļ",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "0.1",
+  "sources": [
+   {
+    "name": "Livonian Institute Dictionary",
+    "url": "https://www.livones.net/"
+   },
+   {
+    "name": "Wiktionary (Līvõ kēļ)",
+    "url": "https://en.wiktionary.org/wiki/Category:Livonian_language"
+   }
+  ],
+  "flag": "🇱🇻",
+  "category": "living",
+  "draft": true
+ },
+ "rm": {
+  "name": "Rumantsch",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "0.1",
+  "sources": [
+   {
+    "name": "Pledari Grond (Lia Rumantscha)",
+    "url": "https://www.pledarigrond.ch/"
+   },
+   {
+    "name": "Wiktionary (Rumantsch)",
+    "url": "https://en.wiktionary.org/wiki/Category:Romansch_language"
+   }
+  ],
+  "flag": "🇨🇭",
+  "category": "living",
+  "draft": true
+ },
+ "smn": {
+  "name": "Anarâškielâ",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "0.1",
+  "sources": [
+   {
+    "name": "Neahttadigisánit (Giellatekno)",
+    "url": "https://sanit.oahpa.no/"
+   },
+   {
+    "name": "Giellagáldu (Sámi Language Board)",
+    "url": "https://www.giellagaldu.com/"
+   },
+   {
+    "name": "Wiktionary (Anarâškielâ)",
+    "url": "https://en.wiktionary.org/wiki/Category:Inari_Sami_language"
+   }
+  ],
+  "flag": "🇫🇮",
+  "category": "living",
+  "draft": true
+ },
+ "sr": {
+  "name": "Српски",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "0.1",
+  "sources": [
+   {
+    "name": "Vokabular",
+    "url": "https://www.vokabular.rs/"
+   },
+   {
+    "name": "Matica srpska",
+    "url": "https://www.maticasrpska.org.rs/"
+   },
+   {
+    "name": "Wiktionary (Српски)",
+    "url": "https://en.wiktionary.org/wiki/Category:Serbian_language"
+   }
+  ],
+  "flag": "🇷🇸",
+  "category": "living",
+  "draft": true
+ },
+ "sr-Latn": {
+  "name": "Srpski",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "0.1",
+  "sources": [
+   {
+    "name": "Vokabular",
+    "url": "https://www.vokabular.rs/"
+   },
+   {
+    "name": "Matica srpska",
+    "url": "https://www.maticasrpska.org.rs/"
+   },
+   {
+    "name": "Wiktionary (Srpski)",
+    "url": "https://en.wiktionary.org/wiki/Category:Serbian_language"
+   }
+  ],
+  "flag": "🇷🇸",
+  "category": "living",
+  "draft": true
+ },
+ "uk": {
+  "name": "Українська",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "0.1",
+  "sources": [
+   {
+    "name": "R2U Academic Dictionaries",
+    "url": "https://r2u.org.ua/"
+   },
+   {
+    "name": "Gorokh Lexicography",
+    "url": "https://gorokh.pp.ua/"
+   },
+   {
+    "name": "Wiktionary (Українська)",
+    "url": "https://uk.wiktionary.org/"
+   }
+  ],
+  "flag": "🇺🇦",
+  "category": "living",
+  "draft": true
+ },
+ "la": {
+  "name": "Latina",
+  "flag": "🏛️",
+  "category": "dead",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "0.1",
+  "sources": [
+   {
+    "name": "Whitaker's Words",
+    "url": "https://latin-words.com/"
+   },
+   {
+    "name": "Perseus Digital Library",
+    "url": "http://www.perseus.tufts.edu/"
+   },
+   {
+    "name": "Wiktionary (Latina)",
+    "url": "https://en.wiktionary.org/wiki/Category:Latin_language"
+   }
+  ],
+  "draft": true
+ },
+ "grc": {
+  "name": "Ἑλληνική",
+  "flag": "🏺",
+  "category": "dead",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "0.1",
+  "sources": [
+   {
+    "name": "Perseus Greek Lexicon",
+    "url": "http://www.perseus.tufts.edu/"
+   },
+   {
+    "name": "LSJ Greek Dictionary",
+    "url": "https://lsj.gr/"
+   },
+   {
+    "name": "Wiktionary (Ἑλληνική)",
+    "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_language"
+   }
+  ],
+  "draft": true
+ },
+ "ang": {
+  "name": "Ænglisc",
+  "flag": "📜",
+  "category": "dead",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "0.1",
+  "sources": [
+   {
+    "name": "Bosworth-Toller Dictionary",
+    "url": "https://bosworthtoller.com/"
+   },
+   {
+    "name": "Wiktionary (Old English)",
+    "url": "https://en.wiktionary.org/wiki/Category:Old_English_language"
+   }
+  ],
+  "draft": true
+ },
+ "non": {
+  "name": "Norrœnt mál",
+  "flag": "ᚱ",
+  "category": "dead",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "0.1",
+  "sources": [
+   {
+    "name": "Cleasby-Vigfusson Old Norse",
+    "url": "https://cleasby-vigfusson.ling.upenn.edu/"
+   },
+   {
+    "name": "Wiktionary (Old Norse)",
+    "url": "https://en.wiktionary.org/wiki/Category:Old_Norse_language"
+   }
+  ],
+  "draft": true
+ },
+ "eo": {
+  "name": "Esperanto",
+  "flag": "🟢",
+  "category": "fictional",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "0.1",
+  "sources": [
+   {
+    "name": "Plena Ilustrita Vortaro (PIV)",
+    "url": "https://vortaro.net/"
+   },
+   {
+    "name": "Reta Vortaro",
+    "url": "https://reta-vortaro.de/"
+   },
+   {
+    "name": "Wiktionary (Esperanto)",
+    "url": "https://en.wiktionary.org/wiki/Category:Esperanto_language"
+   }
+  ],
+  "draft": true
+ },
+ "tlh": {
+  "name": "tlhIngan Hol",
+  "flag": "⚔️",
+  "category": "fictional",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "0.1",
+  "sources": [
+   {
+    "name": "Klingon Language Institute",
+    "url": "https://www.kli.org/"
+   },
+   {
+    "name": "Klingon Wiktionary",
+    "url": "https://en.wiktionary.org/wiki/Category:Klingon_language"
+   }
+  ],
+  "draft": true
+ },
+ "sjn": {
+  "name": "Sindarin",
+  "flag": "🍃",
+  "category": "fictional",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "0.1",
+  "sources": [
+   {
+    "name": "Eldamo Elvish Lexicon",
+    "url": "https://eldamo.org/"
+   },
+   {
+    "name": "Parf Edhellen",
+    "url": "https://www.elfdict.com/"
+   },
+   {
+    "name": "Wiktionary (Sindarin)",
+    "url": "https://en.wiktionary.org/wiki/Category:Sindarin_language"
+   }
+  ],
+  "draft": true
+ },
+ "val": {
+  "name": "Valyrio Eglie",
+  "flag": "🐉",
+  "category": "fictional",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "0.1",
+  "sources": [
+   {
+    "name": "High Valyrian Dictionary",
+    "url": "https://wiki.languageinvention.com/index.php/High_Valyrian_Dictionary"
+   },
+   {
+    "name": "Language Invention Hub",
+    "url": "https://wiki.languageinvention.com/"
+   }
+  ],
+  "draft": true
+ },
+ "en-pirate": {
+  "name": "Pirate Speak",
+  "flag": "🏴‍☠️",
+  "category": "fictional",
+  "author": "Evie & Shell:B",
+  "authorUrl": "https://github.com/ShellB-App/Shell-B",
+  "license": "MIT",
+  "version": "0.1",
+  "sources": [
+   {
+    "name": "Talk Like A Pirate Glossary",
+    "url": "http://talklikeapirate.com/"
+   },
+   {
+    "name": "Pirate English Lexicon",
+    "url": "https://en.wiktionary.org/"
+   }
+  ],
+  "draft": true
+ }
 }

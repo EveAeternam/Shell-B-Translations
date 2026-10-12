@@ -1,0 +1,73 @@
+{
+ "code": "sjn",
+ "name": "Sindarin",
+ "total": 90,
+ "verified": 84,
+ "verifiedPct": 93.3,
+ "sources": [
+  {
+   "name": "Eldamo Elvish Lexicon",
+   "url": "https://eldamo.org/"
+  },
+  {
+   "name": "Parf Edhellen",
+   "url": "https://www.elfdict.com/"
+  },
+  {
+   "name": "Wiktionary (Sindarin)",
+   "url": "https://en.wiktionary.org/wiki/Category:Sindarin_language"
+  }
+ ],
+ "needsReviewCount": 6,
+ "needsReview": [
+  {
+   "key": "Cancel",
+   "translation": "Nuitho",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Bav' for 'Cancel'",
+   "lookupSource": "Eldamo Elvish Lexicon",
+   "lookupUrl": "https://eldamo.org/content/search/search.html?q=Cancel"
+  },
+  {
+   "key": "Save",
+   "translation": "Bado",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Heba' for 'Save'",
+   "lookupSource": "Eldamo Elvish Lexicon",
+   "lookupUrl": "https://eldamo.org/content/search/search.html?q=Save"
+  },
+  {
+   "key": "Settings",
+   "translation": "Eitiolath",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Seidhed' for 'Settings'",
+   "lookupSource": "Eldamo Elvish Lexicon",
+   "lookupUrl": "https://eldamo.org/content/search/search.html?q=Settings"
+  },
+  {
+   "key": "Agent",
+   "translation": "Cairon",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Ceredir' for 'Agent'",
+   "lookupSource": "Eldamo Elvish Lexicon",
+   "lookupUrl": "https://eldamo.org/content/search/search.html?q=Agent"
+  },
+  {
+   "key": "Prompt",
+   "translation": "Horthol",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Canath' for 'Prompt'",
+   "lookupSource": "Eldamo Elvish Lexicon",
+   "lookupUrl": "https://eldamo.org/content/search/search.html?q=Prompt"
+  },
+  {
+   "key": "Tokens",
+   "translation": "Thent",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Thengnath' for 'Tokens'",
+   "lookupSource": "Eldamo Elvish Lexicon",
+   "lookupUrl": "https://eldamo.org/content/search/search.html?q=Tokens"
+  }
+ ],
+ "confirmedKeys": []
+}

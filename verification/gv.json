@@ -1,0 +1,45 @@
+{
+ "code": "gv",
+ "name": "Gaelg",
+ "total": 144,
+ "verified": 136,
+ "verifiedPct": 94.4,
+ "sources": [
+  {
+   "name": "LearnManx / Fockleyr",
+   "url": "https://www.learnmanx.com/"
+  },
+  {
+   "name": "Wiktionary (Gaelg)",
+   "url": "https://en.wiktionary.org/wiki/Category:Manx_language"
+  }
+ ],
+ "needsReviewCount": 3,
+ "needsReview": [
+  {
+   "key": "Cancel",
+   "translation": "Scuir",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Scuirr' for 'Cancel'",
+   "lookupSource": "LearnManx / Fockleyr",
+   "lookupUrl": "https://www.learnmanx.com/dictionary/Cancel"
+  },
+  {
+   "key": "Settings",
+   "translation": "Reaghyssyn",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Reighyssyn' for 'Settings'",
+   "lookupSource": "LearnManx / Fockleyr",
+   "lookupUrl": "https://www.learnmanx.com/dictionary/Settings"
+  },
+  {
+   "key": "Prompt",
+   "translation": "Glooie",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Greinneyder' for 'Prompt'",
+   "lookupSource": "LearnManx / Fockleyr",
+   "lookupUrl": "https://www.learnmanx.com/dictionary/Prompt"
+  }
+ ],
+ "confirmedKeys": []
+}

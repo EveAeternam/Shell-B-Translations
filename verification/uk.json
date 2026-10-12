@@ -1,0 +1,24 @@
+{
+ "code": "uk",
+ "name": "Українська",
+ "total": 144,
+ "verified": 139,
+ "verifiedPct": 96.5,
+ "sources": [
+  {
+   "name": "R2U Academic Dictionaries",
+   "url": "https://r2u.org.ua/"
+  },
+  {
+   "name": "Gorokh Lexicography",
+   "url": "https://gorokh.pp.ua/"
+  },
+  {
+   "name": "Wiktionary (Українська)",
+   "url": "https://uk.wiktionary.org/"
+  }
+ ],
+ "needsReviewCount": 0,
+ "needsReview": [],
+ "confirmedKeys": []
+}

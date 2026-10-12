@@ -1,0 +1,24 @@
+{
+ "code": "sr-Latn",
+ "name": "Srpski",
+ "total": 144,
+ "verified": 139,
+ "verifiedPct": 96.5,
+ "sources": [
+  {
+   "name": "Vokabular",
+   "url": "https://www.vokabular.rs/"
+  },
+  {
+   "name": "Matica srpska",
+   "url": "https://www.maticasrpska.org.rs/"
+  },
+  {
+   "name": "Wiktionary (Srpski)",
+   "url": "https://en.wiktionary.org/wiki/Category:Serbian_language"
+  }
+ ],
+ "needsReviewCount": 0,
+ "needsReview": [],
+ "confirmedKeys": []
+}

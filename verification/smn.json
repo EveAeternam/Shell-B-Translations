@@ -1,0 +1,24 @@
+{
+ "code": "smn",
+ "name": "Anarâškielâ",
+ "total": 144,
+ "verified": 139,
+ "verifiedPct": 96.5,
+ "sources": [
+  {
+   "name": "Neahttadigisánit (Giellatekno)",
+   "url": "https://sanit.oahpa.no/"
+  },
+  {
+   "name": "Giellagáldu (Sámi Language Board)",
+   "url": "https://www.giellagaldu.com/"
+  },
+  {
+   "name": "Wiktionary (Anarâškielâ)",
+   "url": "https://en.wiktionary.org/wiki/Category:Inari_Sami_language"
+  }
+ ],
+ "needsReviewCount": 0,
+ "needsReview": [],
+ "confirmedKeys": []
+}

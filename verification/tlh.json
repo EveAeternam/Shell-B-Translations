@@ -1,0 +1,53 @@
+{
+ "code": "tlh",
+ "name": "tlhIngan Hol",
+ "total": 90,
+ "verified": 86,
+ "verifiedPct": 95.6,
+ "sources": [
+  {
+   "name": "Klingon Language Institute",
+   "url": "https://www.kli.org/"
+  },
+  {
+   "name": "Klingon Wiktionary",
+   "url": "https://en.wiktionary.org/wiki/Category:Klingon_language"
+  }
+ ],
+ "needsReviewCount": 4,
+ "needsReview": [
+  {
+   "key": "Cancel",
+   "translation": "qil",
+   "confidence": 0.6,
+   "reason": "Expected established root 'mev' for 'Cancel'",
+   "lookupSource": "Klingon Language Institute",
+   "lookupUrl": "https://www.kli.org/"
+  },
+  {
+   "key": "Delete",
+   "translation": "teq",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Qaw'' for 'Delete'",
+   "lookupSource": "Klingon Language Institute",
+   "lookupUrl": "https://www.kli.org/"
+  },
+  {
+   "key": "Prompt",
+   "translation": "ra'wI'",
+   "confidence": 0.6,
+   "reason": "Expected established root 'ra'ghach' for 'Prompt'",
+   "lookupSource": "Klingon Language Institute",
+   "lookupUrl": "https://www.kli.org/"
+  },
+  {
+   "key": "Tokens",
+   "translation": "De'mey",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Deghmey' for 'Tokens'",
+   "lookupSource": "Klingon Language Institute",
+   "lookupUrl": "https://www.kli.org/"
+  }
+ ],
+ "confirmedKeys": []
+}

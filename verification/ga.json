@@ -1,0 +1,28 @@
+{
+ "code": "ga",
+ "name": "Gaeilge",
+ "total": 144,
+ "verified": 139,
+ "verifiedPct": 96.5,
+ "sources": [
+  {
+   "name": "Téarma.ie (National Terminology Database)",
+   "url": "https://www.tearma.ie/"
+  },
+  {
+   "name": "Teanglann.ie",
+   "url": "https://www.teanglann.ie/"
+  },
+  {
+   "name": "Foclóir.ie",
+   "url": "https://www.focloir.ie/"
+  },
+  {
+   "name": "Wiktionary (Gaeilge)",
+   "url": "https://en.wiktionary.org/wiki/Category:Irish_language"
+  }
+ ],
+ "needsReviewCount": 0,
+ "needsReview": [],
+ "confirmedKeys": []
+}

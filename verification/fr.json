@@ -1,0 +1,369 @@
+{
+ "code": "fr",
+ "name": "Français",
+ "total": 4263,
+ "verified": 4211,
+ "verifiedPct": 98.8,
+ "sources": [
+  {
+   "name": "Académie française",
+   "url": "https://www.dictionnaire-academie.fr/"
+  },
+  {
+   "name": "Larousse",
+   "url": "https://www.larousse.fr/"
+  },
+  {
+   "name": "Wiktionary (Français)",
+   "url": "https://fr.wiktionary.org/"
+  }
+ ],
+ "needsReviewCount": 43,
+ "needsReview": [
+  {
+   "key": " · ctx {v0}",
+   "translation": " · ctx {v0}",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/%C2%B7%20ctx%20%7Bv0%7D"
+  },
+  {
+   "key": " · Ollama {version}",
+   "translation": " · Ollama {version}",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/%C2%B7%20Ollama%20%7Bversion%7D"
+  },
+  {
+   "key": " · {latencyMs} ms",
+   "translation": " · {latencyMs} ms",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/%C2%B7%20%7BlatencyMs%7D%20ms"
+  },
+  {
+   "key": "Aa Bb Cc 0123",
+   "translation": "Aa Bb Cc 0123",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Aa%20Bb%20Cc%200123"
+  },
+  {
+   "key": "Active · …{keyTail}{v0}",
+   "translation": "Active · …{keyTail}{v0}",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Active%20%C2%B7%20%E2%80%A6%7BkeyTail%7D%7Bv0%7D"
+  },
+  {
+   "key": "Ancient Keep",
+   "translation": "Ancient Keep",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Ancient%20Keep"
+  },
+  {
+   "key": "Architecture",
+   "translation": "Architecture",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Architecture"
+  },
+  {
+   "key": "Cloudflare Email Sending",
+   "translation": "Cloudflare Email Sending",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Cloudflare%20Email%20Sending"
+  },
+  {
+   "key": "Coldwave Night",
+   "translation": "Coldwave Night",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Coldwave%20Night"
+  },
+  {
+   "key": "Collections",
+   "translation": "Collections",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Collections"
+  },
+  {
+   "key": "Contacts ({v0})",
+   "translation": "Contacts ({v0})",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Contacts%20%28%7Bv0%7D%29"
+  },
+  {
+   "key": "Conversations",
+   "translation": "Conversations",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Conversations"
+  },
+  {
+   "key": "Cyberpunk 2077",
+   "translation": "Cyberpunk 2077",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Cyberpunk%202077"
+  },
+  {
+   "key": "Deep Dub Echo",
+   "translation": "Deep Dub Echo",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Deep%20Dub%20Echo"
+  },
+  {
+   "key": "Description",
+   "translation": "Description",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Description"
+  },
+  {
+   "key": "Event Horizon",
+   "translation": "Event Horizon",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Event%20Horizon"
+  },
+  {
+   "key": "Future Funk Disco",
+   "translation": "Future Funk Disco",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Future%20Funk%20Disco"
+  },
+  {
+   "key": "git log --oneline",
+   "translation": "git log --oneline",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/git%20log%20--oneline"
+  },
+  {
+   "key": "Linux · macOS",
+   "translation": "Linux · macOS",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Linux%20%C2%B7%20macOS"
+  },
+  {
+   "key": "Liquid Velocity",
+   "translation": "Liquid Velocity",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Liquid%20Velocity"
+  },
+  {
+   "key": "Lofi Study Café",
+   "translation": "Lofi Study Café",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Lofi%20Study%20Caf%C3%A9"
+  },
+  {
+   "key": "Machines · {v0}",
+   "translation": "Machines · {v0}",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Machines%20%C2%B7%20%7Bv0%7D"
+  },
+  {
+   "key": "Midnight Velvet",
+   "translation": "Midnight Velvet",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Midnight%20Velvet"
+  },
+  {
+   "key": "MusicGen · :8002",
+   "translation": "MusicGen · :8002",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/MusicGen%20%C2%B7%20%3A8002"
+  },
+  {
+   "key": "Neon Outrun",
+   "translation": "Neon Outrun",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Neon%20Outrun"
+  },
+  {
+   "key": "Notifications",
+   "translation": "Notifications",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Notifications"
+  },
+  {
+   "key": "pytest -q tests/test_intake.py",
+   "translation": "pytest -q tests/test_intake.py",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/pytest%20-q%20tests/test_intake.py"
+  },
+  {
+   "key": "Score {score}/{length}",
+   "translation": "Score {score}/{length}",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Score%20%7Bscore%7D/%7Blength%7D"
+  },
+  {
+   "key": "Shell:B Guest",
+   "translation": "Shell:B Guest",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Shell%3AB%20Guest"
+  },
+  {
+   "key": "Shell:B Kiosk OS",
+   "translation": "Shell:B Kiosk OS",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Shell%3AB%20Kiosk%20OS"
+  },
+  {
+   "key": "Subground 8200",
+   "translation": "Subground 8200",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Subground%208200"
+  },
+  {
+   "key": "Tempo (BPM)",
+   "translation": "Tempo (BPM)",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Tempo%20%28BPM%29"
+  },
+  {
+   "key": "Tokyo City Pop",
+   "translation": "Tokyo City Pop",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Tokyo%20City%20Pop"
+  },
+  {
+   "key": "Version {version}",
+   "translation": "Version {version}",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Version%20%7Bversion%7D"
+  },
+  {
+   "key": "Windows PowerShell",
+   "translation": "Windows PowerShell",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Windows%20PowerShell"
+  },
+  {
+   "key": "{gateway} via {interface}",
+   "translation": "{gateway} via {interface}",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/%7Bgateway%7D%20via%20%7Binterface%7D"
+  },
+  {
+   "key": "{label} · {key} {mode} · {bpm} BPM · {section}",
+   "translation": "{label} · {key} {mode} · {bpm} BPM · {section}",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/%7Blabel%7D%20%C2%B7%20%7Bkey%7D%20%7Bmode%7D%20%C2%B7%20%7Bbpm%7D%20BPM%20%C2%B7%20%7Bsection%7D"
+  },
+  {
+   "key": "{n} articles",
+   "translation": "{n} articles",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/%7Bn%7D%20articles"
+  },
+  {
+   "key": "{v0} {cites}{v1}",
+   "translation": "{v0} {cites}{v1}",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/%7Bv0%7D%20%7Bcites%7D%7Bv1%7D"
+  },
+  {
+   "key": "· via {via}",
+   "translation": "· via {via}",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/%C2%B7%20via%20%7Bvia%7D"
+  },
+  {
+   "key": "Aphrodite (18+).",
+   "translation": "Aphrodite (18+).",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Aphrodite%20%2818%2B%29."
+  },
+  {
+   "key": "vs 2003–2014",
+   "translation": "vs 2003–2014",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/vs%202003%E2%80%932014"
+  },
+  {
+   "key": "Bon appétit.",
+   "translation": "Bon appétit.",
+   "confidence": 0.4,
+   "reason": "String left identical to English; may need native translation",
+   "lookupSource": "Académie française",
+   "lookupUrl": "https://www.dictionnaire-academie.fr/article/Bon%20app%C3%A9tit."
+  }
+ ],
+ "confirmedKeys": []
+}

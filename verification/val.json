@@ -1,0 +1,85 @@
+{
+ "code": "val",
+ "name": "Valyrio Eglie",
+ "total": 90,
+ "verified": 82,
+ "verifiedPct": 91.1,
+ "sources": [
+  {
+   "name": "High Valyrian Dictionary",
+   "url": "https://wiki.languageinvention.com/index.php/High_Valyrian_Dictionary"
+  },
+  {
+   "name": "Language Invention Hub",
+   "url": "https://wiki.languageinvention.com/"
+  }
+ ],
+ "needsReviewCount": 8,
+ "needsReview": [
+  {
+   "key": "Cancel",
+   "translation": "Drēje",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Kelitas' for 'Cancel'",
+   "lookupSource": "High Valyrian Dictionary",
+   "lookupUrl": "https://wiki.languageinvention.com/index.php/Special:Search?search=Cancel"
+  },
+  {
+   "key": "Save",
+   "translation": "Pāle",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Heptas' for 'Save'",
+   "lookupSource": "High Valyrian Dictionary",
+   "lookupUrl": "https://wiki.languageinvention.com/index.php/Special:Search?search=Save"
+  },
+  {
+   "key": "Delete",
+   "translation": "Kemze",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Nungos' for 'Delete'",
+   "lookupSource": "High Valyrian Dictionary",
+   "lookupUrl": "https://wiki.languageinvention.com/index.php/Special:Search?search=Delete"
+  },
+  {
+   "key": "Settings",
+   "translation": "Udrir",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Lentun' for 'Settings'",
+   "lookupSource": "High Valyrian Dictionary",
+   "lookupUrl": "https://wiki.languageinvention.com/index.php/Special:Search?search=Settings"
+  },
+  {
+   "key": "Agent",
+   "translation": "Bantis",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Konir' for 'Agent'",
+   "lookupSource": "High Valyrian Dictionary",
+   "lookupUrl": "https://wiki.languageinvention.com/index.php/Special:Search?search=Agent"
+  },
+  {
+   "key": "Prompt",
+   "translation": "Ivestretys",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Daorilys' for 'Prompt'",
+   "lookupSource": "High Valyrian Dictionary",
+   "lookupUrl": "https://wiki.languageinvention.com/index.php/Special:Search?search=Prompt"
+  },
+  {
+   "key": "Tokens",
+   "translation": "Gelde",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Gevessis' for 'Tokens'",
+   "lookupSource": "High Valyrian Dictionary",
+   "lookupUrl": "https://wiki.languageinvention.com/index.php/Special:Search?search=Tokens"
+  },
+  {
+   "key": "Search",
+   "translation": "Jūlor",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Jaos' for 'Search'",
+   "lookupSource": "High Valyrian Dictionary",
+   "lookupUrl": "https://wiki.languageinvention.com/index.php/Special:Search?search=Search"
+  }
+ ],
+ "confirmedKeys": []
+}

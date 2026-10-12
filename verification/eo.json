@@ -1,0 +1,41 @@
+{
+ "code": "eo",
+ "name": "Esperanto",
+ "total": 90,
+ "verified": 88,
+ "verifiedPct": 97.8,
+ "sources": [
+  {
+   "name": "Plena Ilustrita Vortaro (PIV)",
+   "url": "https://vortaro.net/"
+  },
+  {
+   "name": "Reta Vortaro",
+   "url": "https://reta-vortaro.de/"
+  },
+  {
+   "name": "Wiktionary (Esperanto)",
+   "url": "https://en.wiktionary.org/wiki/Category:Esperanto_language"
+  }
+ ],
+ "needsReviewCount": 2,
+ "needsReview": [
+  {
+   "key": "Agent",
+   "translation": "Agento",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Aganto' for 'Agent'",
+   "lookupSource": "Plena Ilustrita Vortaro (PIV)",
+   "lookupUrl": "https://vortaro.net/#Agent"
+  },
+  {
+   "key": "Prompt",
+   "translation": "Invito",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Instigo' for 'Prompt'",
+   "lookupSource": "Plena Ilustrita Vortaro (PIV)",
+   "lookupUrl": "https://vortaro.net/#Prompt"
+  }
+ ],
+ "confirmedKeys": []
+}

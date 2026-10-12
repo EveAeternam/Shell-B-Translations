@@ -1,0 +1,24 @@
+{
+ "code": "eu",
+ "name": "Euskara",
+ "total": 144,
+ "verified": 139,
+ "verifiedPct": 96.5,
+ "sources": [
+  {
+   "name": "Euskalterm (Terminology Bank)",
+   "url": "https://www.euskadi.eus/euskalterm/"
+  },
+  {
+   "name": "Elhuyar Hiztegia",
+   "url": "https://hiztegiak.elhuyar.eus/"
+  },
+  {
+   "name": "Wiktionary (Euskara)",
+   "url": "https://en.wiktionary.org/wiki/Category:Basque_language"
+  }
+ ],
+ "needsReviewCount": 0,
+ "needsReview": [],
+ "confirmedKeys": []
+}

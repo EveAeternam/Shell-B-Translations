@@ -1,0 +1,41 @@
+{
+ "code": "br",
+ "name": "Brezhoneg",
+ "total": 144,
+ "verified": 137,
+ "verifiedPct": 95.1,
+ "sources": [
+  {
+   "name": "TermOfis (Ofis Publik ar Brezhoneg)",
+   "url": "https://www.fr.brezhoneg.bzh/"
+  },
+  {
+   "name": "Geriadur Favereau",
+   "url": "https://geriadur.brezhoneg.bzh/"
+  },
+  {
+   "name": "Wiktionary (Brezhoneg)",
+   "url": "https://en.wiktionary.org/wiki/Category:Breton_language"
+  }
+ ],
+ "needsReviewCount": 2,
+ "needsReview": [
+  {
+   "key": "Prompt",
+   "translation": "Galv",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Bountell' for 'Prompt'",
+   "lookupSource": "TermOfis",
+   "lookupUrl": "https://www.fr.brezhoneg.bzh/36-termofis.htm?terme=Prompt"
+  },
+  {
+   "key": "Tokens",
+   "translation": "Jedonoù",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Arouezioù' for 'Tokens'",
+   "lookupSource": "TermOfis",
+   "lookupUrl": "https://www.fr.brezhoneg.bzh/36-termofis.htm?terme=Tokens"
+  }
+ ],
+ "confirmedKeys": []
+}

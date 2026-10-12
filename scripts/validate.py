@@ -20,7 +20,7 @@ LOCALES = ROOT / "locales"
 README = ROOT / "README.md"
 KEYS = ROOT / "keys.json"
 META = ROOT / "locales.json"
-CODE_RE = re.compile(r"^[a-z]{2,3}(-[A-Za-z]{2,4})?$")
+CODE_RE = re.compile(r"^[a-z]{2,3}(-[A-Za-z0-9]{2,8})?$")
 PLACEHOLDER = re.compile(r"\{(\w+)\}")
 START, END = "<!-- locales:start -->", "<!-- locales:end -->"
 
@@ -69,8 +69,10 @@ def check(path: Path, keys: set[str], meta: dict) -> tuple[dict | None, list[str
         warnings.append(f"{len(unknown)} entries aren't current interface strings (stale after a Shell:B update?), e.g. {unknown[:3]}")
     covered = len(set(cat) & keys)
     return {"code": code, "entries": len(cat), "covered": covered, "coverage": round(100 * covered / max(1, len(keys)), 1),
-            "name": info.get("name", code), "author": info.get("author", ""), "authorUrl": info.get("authorUrl", ""),
-            "license": info.get("license", ""), "version": info.get("version", "1.0")}, errors, warnings
+            "name": info.get("name", code), "flag": info.get("flag", ""), "category": info.get("category", "living"),
+            "author": info.get("author", ""), "authorUrl": info.get("authorUrl", ""),
+            "license": info.get("license", ""), "version": info.get("version", "1.0"), "sources": info.get("sources", []),
+            "draft": bool(info.get("draft"))}, errors, warnings
 
 
 def table_html(index: list[dict]) -> str:
@@ -79,8 +81,9 @@ def table_html(index: list[dict]) -> str:
         by = html.escape(it["author"])
         if it.get("authorUrl"):
             by = f'<a href="{html.escape(it["authorUrl"], quote=True)}">{by}</a>'
-        rows.append(f'<tr><td><a href="locales/{it["code"]}.json"><b>{html.escape(it["name"])}</b></a> <code>{it["code"]}</code></td>'
-                    f'<td>{it["coverage"]} % ({it["covered"]} of the strings)</td><td><sub>{by} · {html.escape(it["license"])}</sub></td></tr>')
+        flag_prefix = f"{it.get('flag')} " if it.get("flag") else ""
+        rows.append(f'<tr><td><a href="locales/{it["code"]}.json"><b>{flag_prefix}{html.escape(it["name"])}</b></a> <code>{it["code"]}</code></td>'
+                    f'<td>{it["coverage"]} % ({it["covered"]} of the strings){" · <i>draft</i>" if it.get("draft") else ""}</td><td><sub>{by} · {html.escape(it["license"])}</sub></td></tr>')
     return f"{START}\n<table>\n<tr><th>Language</th><th>Coverage</th><th>Credit</th></tr>\n" + "\n".join(rows) + f"\n</table>\n{END}"
 
 

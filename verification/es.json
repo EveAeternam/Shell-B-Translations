@@ -1,0 +1,20 @@
+{
+ "code": "es",
+ "name": "Español",
+ "total": 149,
+ "verified": 144,
+ "verifiedPct": 96.6,
+ "sources": [
+  {
+   "name": "Real Academia Española (DLE)",
+   "url": "https://dle.rae.es/"
+  },
+  {
+   "name": "Wiktionary (Español)",
+   "url": "https://es.wiktionary.org/"
+  }
+ ],
+ "needsReviewCount": 0,
+ "needsReview": [],
+ "confirmedKeys": []
+}

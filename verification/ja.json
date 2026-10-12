@@ -1,0 +1,20 @@
+{
+ "code": "ja",
+ "name": "日本語",
+ "total": 144,
+ "verified": 139,
+ "verifiedPct": 96.5,
+ "sources": [
+  {
+   "name": "Jisho.org",
+   "url": "https://jisho.org/"
+  },
+  {
+   "name": "Wiktionary (日本語)",
+   "url": "https://en.wiktionary.org/wiki/Category:Japanese_language"
+  }
+ ],
+ "needsReviewCount": 0,
+ "needsReview": [],
+ "confirmedKeys": []
+}

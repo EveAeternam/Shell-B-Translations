@@ -1,0 +1,33 @@
+{
+ "code": "kw",
+ "name": "Kernewek",
+ "total": 144,
+ "verified": 138,
+ "verifiedPct": 95.8,
+ "sources": [
+  {
+   "name": "Akademi Kernewek Terminology",
+   "url": "https://www.akademikernewek.org.uk/"
+  },
+  {
+   "name": "Gerlyver Kernewek",
+   "url": "https://cornishdictionary.org.uk/"
+  },
+  {
+   "name": "Wiktionary (Kernewek)",
+   "url": "https://en.wiktionary.org/wiki/Category:Cornish_language"
+  }
+ ],
+ "needsReviewCount": 1,
+ "needsReview": [
+  {
+   "key": "Tokens",
+   "translation": "Arwodhyow",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Tokyns' for 'Tokens'",
+   "lookupSource": "Akademi Kernewek",
+   "lookupUrl": "https://cornishdictionary.org.uk/?locale=en#search=Tokens"
+  }
+ ],
+ "confirmedKeys": []
+}

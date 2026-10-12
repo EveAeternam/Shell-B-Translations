@@ -1,0 +1,41 @@
+{
+ "code": "grc",
+ "name": "Ἑλληνική",
+ "total": 90,
+ "verified": 88,
+ "verifiedPct": 97.8,
+ "sources": [
+  {
+   "name": "Perseus Greek Lexicon",
+   "url": "http://www.perseus.tufts.edu/"
+  },
+  {
+   "name": "LSJ Greek Dictionary",
+   "url": "https://lsj.gr/"
+  },
+  {
+   "name": "Wiktionary (Ἑλληνική)",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_language"
+  }
+ ],
+ "needsReviewCount": 2,
+ "needsReview": [
+  {
+   "key": "Agent",
+   "translation": "Πράκτωρ",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Δράστης' for 'Agent'",
+   "lookupSource": "Perseus Greek Lexicon",
+   "lookupUrl": "http://www.perseus.tufts.edu/hopper/resolveform?lookup=Agent&lang=greek"
+  },
+  {
+   "key": "Prompt",
+   "translation": "Παρόρμησις",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Κέλευσμα' for 'Prompt'",
+   "lookupSource": "Perseus Greek Lexicon",
+   "lookupUrl": "http://www.perseus.tufts.edu/hopper/resolveform?lookup=Prompt&lang=greek"
+  }
+ ],
+ "confirmedKeys": []
+}

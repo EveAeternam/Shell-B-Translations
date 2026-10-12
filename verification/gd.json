@@ -1,0 +1,28 @@
+{
+ "code": "gd",
+ "name": "Gàidhlig",
+ "total": 164,
+ "verified": 159,
+ "verifiedPct": 97.0,
+ "sources": [
+  {
+   "name": "LearnGaelic Dictionary",
+   "url": "https://learngaelic.net/dictionary/"
+  },
+  {
+   "name": "Am Faclair Beag",
+   "url": "https://faclair.com/"
+  },
+  {
+   "name": "Stòr-dàta Briathrachais",
+   "url": "https://www.gaidhlig.scot/"
+  },
+  {
+   "name": "Wiktionary (Gàidhlig)",
+   "url": "https://en.wiktionary.org/wiki/Category:Scottish_Gaelic_language"
+  }
+ ],
+ "needsReviewCount": 0,
+ "needsReview": [],
+ "confirmedKeys": []
+}

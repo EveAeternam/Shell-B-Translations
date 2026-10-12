@@ -1,0 +1,28 @@
+{
+ "code": "cy",
+ "name": "Cymraeg",
+ "total": 144,
+ "verified": 139,
+ "verifiedPct": 96.5,
+ "sources": [
+  {
+   "name": "Termau Cymru (Welsh National Terminology)",
+   "url": "https://termau.cymru/"
+  },
+  {
+   "name": "Geiriadur Prifysgol Cymru",
+   "url": "https://geiriadur.ac.uk/"
+  },
+  {
+   "name": "Geiriadur yr Academi",
+   "url": "https://geiriaduracademi.org/"
+  },
+  {
+   "name": "Wiktionary (Cymraeg)",
+   "url": "https://en.wiktionary.org/wiki/Category:Welsh_language"
+  }
+ ],
+ "needsReviewCount": 0,
+ "needsReview": [],
+ "confirmedKeys": []
+}

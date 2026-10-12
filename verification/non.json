@@ -1,0 +1,61 @@
+{
+ "code": "non",
+ "name": "Norrœnt mál",
+ "total": 90,
+ "verified": 85,
+ "verifiedPct": 94.4,
+ "sources": [
+  {
+   "name": "Cleasby-Vigfusson Old Norse",
+   "url": "https://cleasby-vigfusson.ling.upenn.edu/"
+  },
+  {
+   "name": "Wiktionary (Old Norse)",
+   "url": "https://en.wiktionary.org/wiki/Category:Old_Norse_language"
+  }
+ ],
+ "needsReviewCount": 5,
+ "needsReview": [
+  {
+   "key": "Save",
+   "translation": "Varðveita",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Geyma' for 'Save'",
+   "lookupSource": "Cleasby-Vigfusson Old Norse",
+   "lookupUrl": "https://cleasby-vigfusson.ling.upenn.edu/"
+  },
+  {
+   "key": "Delete",
+   "translation": "Afmá",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Fella' for 'Delete'",
+   "lookupSource": "Cleasby-Vigfusson Old Norse",
+   "lookupUrl": "https://cleasby-vigfusson.ling.upenn.edu/"
+  },
+  {
+   "key": "Agent",
+   "translation": "Verkandi",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Vinnandi' for 'Agent'",
+   "lookupSource": "Cleasby-Vigfusson Old Norse",
+   "lookupUrl": "https://cleasby-vigfusson.ling.upenn.edu/"
+  },
+  {
+   "key": "Prompt",
+   "translation": "Eggjan",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Boð' for 'Prompt'",
+   "lookupSource": "Cleasby-Vigfusson Old Norse",
+   "lookupUrl": "https://cleasby-vigfusson.ling.upenn.edu/"
+  },
+  {
+   "key": "Tokens",
+   "translation": "Tákn",
+   "confidence": 0.6,
+   "reason": "Expected established root 'Teikn' for 'Tokens'",
+   "lookupSource": "Cleasby-Vigfusson Old Norse",
+   "lookupUrl": "https://cleasby-vigfusson.ling.upenn.edu/"
+  }
+ ],
+ "confirmedKeys": []
+}
